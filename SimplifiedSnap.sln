@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplifiedSnap", "SimplifiedSnap\SimplifiedSnap.csproj", "{07CD5929-1466-4B34-A352-15453FC05477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplifiedSnap.Tests", "SimplifiedSnap.Tests\SimplifiedSnap.Tests.csproj", "{FDFACE5C-AC97-4FB7-80B9-F4766CAE6884}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07CD5929-1466-4B34-A352-15453FC05477}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{07CD5929-1466-4B34-A352-15453FC05477}.Debug|anycpu.Build.0 = Debug|anycpu
+		{07CD5929-1466-4B34-A352-15453FC05477}.Release|anycpu.ActiveCfg = Release|anycpu
+		{07CD5929-1466-4B34-A352-15453FC05477}.Release|anycpu.Build.0 = Release|anycpu
+		{FDFACE5C-AC97-4FB7-80B9-F4766CAE6884}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FDFACE5C-AC97-4FB7-80B9-F4766CAE6884}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FDFACE5C-AC97-4FB7-80B9-F4766CAE6884}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FDFACE5C-AC97-4FB7-80B9-F4766CAE6884}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

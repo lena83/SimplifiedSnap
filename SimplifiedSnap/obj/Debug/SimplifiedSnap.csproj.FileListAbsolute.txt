@@ -1,0 +1,4 @@
+/Users/elenapetrova/Projects/SimplifiedSnap/SimplifiedSnap/bin/Debug/SimplifiedSnap.exe
+/Users/elenapetrova/Projects/SimplifiedSnap/SimplifiedSnap/bin/Debug/SimplifiedSnap.pdb
+/Users/elenapetrova/Projects/SimplifiedSnap/SimplifiedSnap/obj/Debug/SimplifiedSnap.exe
+/Users/elenapetrova/Projects/SimplifiedSnap/SimplifiedSnap/obj/Debug/SimplifiedSnap.pdb
