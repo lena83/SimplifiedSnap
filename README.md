@@ -5,6 +5,6 @@ Haven't had enough time to implement everything. I have created game only for 1 
 
 Overall it seemed 2 hours was not enough to complete and to refactor the code.
 
-To play the game just run executrable and follow the instructions on the screen
+To play the game just run executable and follow the instructions on the screen
 
 
